@@ -3,7 +3,7 @@
 **Course:** CS50's Introduction to Cybersecurity (HarvardX + edX)
 **Platform:** edX
 **Learner:** Gopi M
-**Enrollment Date:** As of February 14, 2026
+**Enrollment Date:** As of February 11, 2026
 **Course End Date:** July 1, 2026
 **Verification Upgrade Deadline:** June 21, 2026
 
@@ -30,8 +30,8 @@ The course is organized into 7 main sections:
 
 | # | Module Name | Status | Completion | Notes |
 |---|---|---|---|---|
-| 0 | Introduction | ⏳ Incomplete | 0% | Starting point of the course |
-| 1 | Securing Accounts | ⏳ Incomplete | 0% | Authentication, passwords, 2FA |
+| 0 | Introduction | ⏳ Incomplete | 100% | Starting point of the course |
+| 1 | Securing Accounts | ⏳ Incomplete | 100% | Authentication, passwords, 2FA |
 | 2 | Securing Data | ⏳ Incomplete | 0% | Encryption, data protection |
 | 3 | Securing Systems | ⏳ Incomplete | 0% | System hardening, vulnerabilities |
 | 4 | Securing Software | ⏳ Incomplete | 0% | Code security, secure development |
@@ -39,43 +39,8 @@ The course is organized into 7 main sections:
 | 6 | Final Project | ⏳ Incomplete | 0% | Capstone project |
 
 ### Overall Progress
-**Sections Completed:** 0/7
-**Overall Completion Rate:** 0%
-
----
-
-## Learning Resources
-
-### Official Channels
-- **YouTube Channel:** [CS50's YouTube](https://www.youtube.com/subscription_center?add_user=cs50tv)
-- **OpenCourseWare:** [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity)
-- **Official Website:** [edX Course Page](https://cs50.edx.org/cybersecurity)
-- **YouTube Playlist:** [CS50 Cybersecurity Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
-
-### Community Support
-The CS50 community is active across multiple platforms:
-- **Discord:** [discord.gg/cs50](https://discord.gg/cs50)
-- **Ed:** [Q&A Platform](https://cs50.edx.org/ed)
-- **Reddit:** [r/cs50](https://www.reddit.com/r/cs50/)
-- **Stack Exchange:** Q&A Community
-- **Facebook Group:** [CS50 Community](https://www.facebook.com/groups/cs50/)
-- **Slack:** [CS50 Slack](https://cs50.edx.org/slack)
-- **GitHub:** [CS50 Organization](https://github.com/cs50)
-
----
-
-## Certification
-
-### Verified Certificate
-- **Provider:** HarvardX (Harvard University)
-- **Status:** Available for upgrade
-- **Original Price:** $449
-- **Current Discount Price:** $314.30
-- **Discount Code:** NEW2EDX
-- **Requirements:** 70% or better on all assignments
-- **Issuance Time:** Within 30 days of achieving passing grade
-
----
+**Sections Completed:** 1/7
+**Overall Completion Rate:** 20%
 
 ## Important Dates
 
